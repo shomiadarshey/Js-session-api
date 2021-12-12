@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "taskName": "Hit the gym",
+    "isDone": false
+  },
+  {
+    "id": 2,
+    "taskName": "Pay Bills",
+    "isDone": false
+  },
+  {
+    "id": 3,
+    "taskName": "Meet George",
+    "isDone": false
+  },
+  {
+    "id": 4,
+    "taskName": "Buy Eggs",
+    "isDone": false
+  },
+  {
+    "id": 5,
+    "taskName": "Read a Book",
+    "isDone": false
+  },
+  {
+    "id": 6,
+    "taskName": "Organize Office",
+    "isDone": false
+  },
+  {
+    "id": 7,
+    "taskName": "Book Tickets",
+    "isDone": false
+  }
+]
